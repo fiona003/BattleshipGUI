@@ -1,3 +1,3 @@
 # BattleshipGUI
 
-Two Player and Player vs Computer Battleship Game
+Player vs Computer Battleship Game
