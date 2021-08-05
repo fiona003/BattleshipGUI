@@ -1,6 +1,6 @@
 # Battleship Game
 
-Player vs Computer Battleship Game
+Player vs Computer Battleship Game created using Java and JavaFX
 
 ### Game Screenshots
 ![Start](https://raw.githubusercontent.com/kjsbot/Battleship/master/screenshots/start.PNG)
